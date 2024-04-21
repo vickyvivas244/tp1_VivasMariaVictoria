@@ -35,7 +35,6 @@ public class Main {
 
         
         System.out.println("La suma de todos los valores es: " + suma);
-
         scanner.close();
     }
 }
